@@ -1,6 +1,8 @@
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+command:
+$ npx create-snowpack-app . --template @snowpack/app-template-blank-typescript --force
 
 ## Available Scripts
 
